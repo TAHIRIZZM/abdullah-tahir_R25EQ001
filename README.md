@@ -38,3 +38,14 @@ Developed a firefighting robot designed to detect fire and assist in fire emerge
 
 ### 4. FireGuard AI
 An AI-powered fire safety project focused on intelligent fire monitoring, early detection, and supporting faster emergency responses.
+
+## Collaboration Log
+
+- Partner Name: Md.Ziauddin
+- Partner GitHub: mdziauddin20
+
+### Work Completed
+Collaboratively developed a greet() function in C using Visual Studio Code Live Share.
+
+### Learning
+Learned how to use GitLens to track code changes, view commit history, and identify code authors. Also learned real-time collaborative coding using Live Share.
