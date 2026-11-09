@@ -10,3 +10,17 @@ I am a second-year B.Tech Information Science and Engineering student at REVA Un
 - Artificial Intelligence
 - Machine Learning
 - Internet of Things (IoT)
+
+### 🔗 Interests
+
+- Artificial Intelligence and Machine Learning
+- Software Development
+- Technology and Innovation
+- Hackathons and Open Source
+
+### Goals
+
+- Improve my programming skills.
+- Build innovative real-world projects.
+- Contribute to open-source projects.
+- Gain practical industry experience.
